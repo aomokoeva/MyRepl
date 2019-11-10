@@ -3,6 +3,7 @@ package MethodsReturn;
 public class countAppearances {
     public static void main(String[] args) {
         System.out.println(max(5,0));
+        System.out.println("Form TestBranch");
 
     }
 
